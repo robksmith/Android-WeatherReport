@@ -46,5 +46,8 @@ Time ran out just when lots more features could be added such as:
 
 **Rob Smith** - (https://github.com/robksmith)
 
+## Screenshot
+
+![screenshot 1](https://s3-eu-west-1.amazonaws.com/zengo.com.drop/Github/Weather/app_screenshot_1.png)
 
 
